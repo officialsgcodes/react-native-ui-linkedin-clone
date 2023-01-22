@@ -7,7 +7,7 @@ import Heading from '../Components/Heading';
 import CustomIcon from '../Components/CustomIcon';
 import ShowAllFooter from '../Components/ShowAllFooter';
 import SectionHeading from '../Components/SectionHeading';
-import ShowPeople from '../Components/Profile/showPeople';
+import ShowPeople from '../Components/Profile/ShowPeople';
 import ShowCourses from '../Components/Profile/ShowCourses';
 import ShowProjects from '../Components/Profile/ShowProjects';
 import ShowSkills from '../Components/Profile/ShowSkills';
