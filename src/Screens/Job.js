@@ -28,8 +28,7 @@ export default function Job() {
           renderItem={ShowJobs}
           ItemSeparatorComponent={() => <ItemSeparator />}
           ListFooterComponent={() => <ShowAllFooter />}
-        /> 
-        {/* add like dislike & get premium frmo older projects here */}
+        />
       </View>
     </ScrollView>
   );
